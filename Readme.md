@@ -5,7 +5,7 @@ Quiz Board
  virginie mukantwari
 
  ### description of project
-
+I know how to use Bootstrap 
 
  ### project setup instructions
 
