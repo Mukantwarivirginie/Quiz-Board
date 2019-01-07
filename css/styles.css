@@ -5,6 +5,7 @@
     
      .btn{
          background-color:tan;
+         margin-left:5px;
      }   
       .have{
           background-color:silver;
@@ -17,4 +18,13 @@
      
 .final {
     display: none;
+}
+.score{
+    background-color: lightcoral;
+     font-size: 25px;    
+     border: 5px tan;
+     height:40px;
+     width:180px;
+     margin-left:5px;
+     margin-bottom: 15px;
 }
